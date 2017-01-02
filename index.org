@@ -1,0 +1,31 @@
+#+TITLE: Index
+#+LANGUAGE: en
+#+OPTIONS: H:4 num:t toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t LaTeX:t
+#+STARTUP: showeverything
+
+* Discrete Mathematics One (aka DM1 or CS 237)
+
+  This is possibly your first introduction to a .org (dot org) file. In
+  emacs/spacemacs there are many things you can do in "org-mode". In any other
+  editor there is not a lot you can do except edit these "plain old text" files.
+
+  Guidance for coming up to speed with emacs/spacemacs/org-mode will be
+  forthcoming. When in this mode, the links below can be visited by clicking on
+  them, or else positioning the cursor on them and typing SPC u Ctrl-c Ctrl-o.
+
+** Course Metamaterial
+
+   [[file:syllabus.org][syllabus.org]]
+
+   [[file:schedule.org][schedule.org]]
+
+   [[file:cof/a-note-on-grading.org][a-note-on-grading.org]]
+
+   [[file:see-grades.org][see-grades.org]]
+
+** Course Material
+
+   [[file:the-book.org][the-book.org]]
+
+   [[file:wa00.org][wa00.org]]
+
