@@ -13,7 +13,6 @@ spend on this assignment, broken down by task.
   on the line and typing , , (two commas) will toggle the X for you.)
 
   - [ ] I got a GitHub account, or I already had one.
-  - [ ] I added an SSH public key to my account, or I already had one.
   - [ ] I found and worked through an introductory GitHub/Git tutorial, or I am
     already GitHub/Git-literate. 
   - [ ] I obviously signed up for GitHub Classroom, as that is how I got access
@@ -25,10 +24,9 @@ spend on this assignment, broken down by task.
   Here is where you will report the time you tracked. For example:
 
 |-------------------------------+--------|
-| *Total time*                  | *1:22* |
+| *Total time*                  | *1:12* |
 |-------------------------------+--------|
 | DONE GitHub Account Setup     |   0:15 |
-| DONE SSH Key Acquisition      |   0:10 |
 | DONE GitHub/Git Acquaintance  |   0:22 |
 | DONE GitHub Classroom Joining |   0:07 |
 | DONE Book Reading             |   0:28 |
