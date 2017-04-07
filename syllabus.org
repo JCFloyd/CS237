@@ -40,37 +40,32 @@
 
   You are required to...
 
-  - attend class, as attendance and participation factor into your
-    grade.
-  - read assigned portions of the course materials *before* the class
-    meeting when they will be discussed.
-  - take weekly preparation assessments.
-  - do weekly homework assignments to deepen your understanding of selected
-    topics.
+  1. attend class, as attendance and participation factor into your
+     grade.
+  2. read assigned portions of the course materials *before* the class
+     meeting when they will be discussed.
+  3. complete weekly preparation assessments on time.
+  4. complete weekly homework assignments on time. These deepen your understanding of selected
+     topics.
 
 * Assessments
 
-  There will be weekly preparation assessments that you will take before class.
-  These will be on any current or previously discussed course content, to
-  encourage steady knowledge accumulation and retention.
+  There will be weekly preparation assessments that you will do during class.
+  Each preparation assessment is done with a randomly selected student and consists of the student being asked to verbally defend claims of understanding the team made regarding the week's learning. 
 
 * Assignments
 
-  Homework assignments are of two types: Exercises and Problems.
+  Homework assignments are of two types: Exercises and Problems. 
+  If an assignment is about something you are familiar with, it is an exercise.
+  If an assignment is about somthing you are unfamiliar with, it is a problem.
 
-** Exercises
+  Assignments are individual and group learning activities that require
+  preparation before class, participation during class, or both. 
+  Although time may be given during class, some time outside of class is also be required.
 
-   Exercises are individual and group learning activities that will require
-   either a small amount of preparation before class, or participation during
-   class, or both. Although time will be given during class, some time outside
-   of class may also be required.
-
-** Problems
-
-   Problems are weightier assignments that invite you to explore certain topics
-   in discrete mathematics, as well as increase your lisp/functional programming
-   prowess. All involve some writing in the form of a report on what you
-   learned.
+  As you progress through the course, your intent should be to encounter problems and learn well enough that when you see a similar assignment, it has become an exercise.
+  To move from seeing assignments in any given topic as problems to exercises, you are invited to explore the discrete mathematics and elisp/functional programming principles involved.
+  Exploration is how you gain prowess in any field of endevor.
 
 * Late Policy
 

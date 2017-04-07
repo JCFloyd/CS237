@@ -7,7 +7,7 @@
 
   There are assignments of ever-increasing weight due every week, including this
   week I'm numbering 00, excluding the last week of the semester (finals week).
-  The 00 Assignment is due Saturday, January 7th, 2017, at 6:00 PM MST. Every
+  The 00 Assignment is due Saturday, April 22, 2017, at 6:00 PM MST. Every
   assignment thereafter is also due by 6:00 PM MST on Saturday. A grace period
   of up to 6 hours will be granted, but the points earned will be diminished by
   a "Timeliness" factor that is factored into the weighted score for each

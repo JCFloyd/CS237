@@ -19,12 +19,12 @@ points on everything. You can only go down from there (but sometimes you can go
 up)! How do you go down? How do you lose points?
 
 First, when allowed, which is about every other assignment, you are encouraged
-to *appropriately* collaborate with your peers, so failure to do so is a major
+to *appropriately* collaborate with your peers. Failure to do so is a major
 flaw that is painful for me to see in you, and will cost you. Second, failure to
 report what you learned pains me, as it means you missed learning something you
 otherwise could have. Things like these make grading hard.
 
-In a nutshell, the /harder/ you make it for me (or my grader) to read and assess
+In a nutshell, the /harder/ you make it for me to read and assess
 your work, the /lower/ your score. So you can lose points by doing any of the
 following (which means you can *avoid* losing points by *NOT* exhibiting these
 behaviors):
