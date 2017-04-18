@@ -3,6 +3,14 @@
 #+OPTIONS: H:4 num:nil toc:nil \n:nil @:t ::t |:t ^:t *:t TeX:t LaTeX:t
 #+STARTUP: showeverything
 
+
+* Software
+  [[https://www.gnu.org/software/emacs/download.html][Emacs]]
+  Spacemacs [[https://www.youtube.com/watch?v=O1bW3WiK7oo&t=33s][(Intallation Instructions)]]
+  git [[https://git-scm.com/book/en/v2/Getting-Started-Installing-Git][Windows]] [[https://emacsformacosx.com][MacOS]]
+  [[https://github.com/][GitHub]]
+  [[https://classroom.github.com/][GitHub Classroom]]
+
 * Catalog Description
 
   What this course is about: /Mathematics for computer science./

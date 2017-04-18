@@ -1,0 +1,91 @@
+* Boolean Logic, Sets, and Proofs Cheatsheat
+
+** Boolean Logic Operators
+********************************
+| Form  | Translation                 |
+|-------+-----------------------------|
+| \not{}p    | not p                       |
+| p \land{} q | p and q                     |
+| p \lor{} q | p or q                      |
+| p \oplus q | p or q exclusive            |
+| p \rightarrow q | if p then q (or p yeilds q) |
+| p \leftrightarrow q | p if and only if q          |
+| ____  | __________________________  |
+
+
+** Boolean Logic Negation
+********************************
+| Base statement | p \rightarrow q   |
+| Converse       | q \rightarrow p   |
+| Contrapositive | \not{}q \rightarrow \not{}p |
+| inverse        | \not{}p \rightarrow \not{}q |
+
+
+
+** Bioolean Logic Equivalences
+*******************************
+| Form                            | Translation              |
+|                                 |                          |
+| \not{}\not{}p \equiv p                   | x \ai A        | x is an element of the set A                                                                                                      |
+      | double negative          |
+| (p \land q) \land r \equiv p \land (q \land r)       | associativity            |
+| (p \lor q) \lor r \equiv p \lor (q \lor r)       | associativity            |
+| p \land q \equiv q \land p                   | commutivity              |
+| p \lor q \equiv q \lor p                   | commutivity              |
+| p \land (q \land r) \equiv (p \land q) \land (p \land r) | distributivity           |
+| p \lor (q \lor r) \equiv (p \lor q) \lor (p \lor r) | distributivity           |
+| \not{}(p \land q) \equiv \not{}p \lor \not{}q              | De Morgan's Law          |
+| \not{}(p \lor q) \equiv \not{}p \land \not{}q              | De Morgan's Law          |
+| if p \rightarrow q, then [p \land q \equiv p]      | absorption rule          |
+| if p \rightarrow p, then [p \lor q \equiv p]      | absorption rule          |
+| p \rightarrow q \land \not{}p \rightarrow r                  | if p then q, otherwise r |
+| _______________________________ | ________________________ |
+
+** Set Notation
+*******************************
+| Notation Use | Translation                                                                                                                       |
+| {1,2,3}      | the set containing 1, 2, and 3                                                                                                    |
+| N            | the set of all Natural numbers {1,2,3...}                                                                                         |
+| Z            | the set of all Integers {...-2,-1,0,1,2fdasfda...                                                                                 |
+| Q            | the set of all Rational numbers (not used in this class)                                                                          |
+| R            | the set of all Real numbers (not used in this class)                                                                              |
+| I            | the set of all Imaginary numbers (not used in this class)                                                                         |
+| C            | the set of all Complex numbers (not used in this class)                                                                           |
+| x \in A        | x is an element of the set A                                                                                                      |
+| x \notin A        | x is not an element of the set A                                                                                                  |
+| x : x > 0    | all x where x is positive                                                                                                         |
+| A \cup B        | Union: everything in A and B                                                                                                      |
+| A \cap B        | Intersection: everything in both A and B                                                                                          |
+| A \sube B        | Subset: the set A has some or all of the elements of the set B                                                                    |
+| A \sub B        | Proper Subset: the set A has some but not all of the elements of teh set B                                                        |
+| A \nsub B        | Not a Subset: the set A has at least one element not in set B                                                                     |
+| A \supe B        | Superset: the set A has all the elments of set B and possibly more                                                                |
+| A \sup B       | Proper Superset: the set a has all the elements of set B and more                                                                 |
+| A \nsub B        | Not a Superset: the set A is missing at least one element of set B                                                                |
+| A^c           | Compliment: Elements not in A. A={2,3,6,8...} A^c in Z^{+} = {1,3,5...}                                                              |
+| A - B or A\B | Relative Compliment (Difference): all elements in A but not in B                                                                  |
+| A \Delta B        | Symetric Difference: Elements in A or B but not both                                                                              |
+| \empty            | Empty Set: {} a set with nothing in it                                                                                            |
+| \weierp(A)         | Power Set: all possible subsets of A                                                                                              |
+| A = B        | Equality: A and B have the same elements                                                                                          |
+| A X B        | Cartesian Product: the set of ordered pairs of A and B                                                                            |
+| \vert{}A\vert          | Cardinality: the number of elements in A                                                                                          |
+| \forall            | For All: \forall x : x \in R, x^2 > 0, For all x such that x is an element of the set of all real numbers, x squared is greater than zero. |
+| \exists            | There Exists: \exists x : x^2 > 0 There exists at least one x such that x^2 is greater than x                                             |
+
+
+** Set Identities
+*****************************
+| Form                            | Translation                          |
+| (A^c)^c \equiv A                       | double complement of a set is itself |
+| (p \land q) \land r \equiv p \land (q \land r)       | associativity                        |
+| (p \lor q) \lor r \equiv p \lor (q \lor r)       | associativity                        |
+| p \land q \equiv q \land p                   | commutivity                          |
+| p \lor q \equiv q \lor p                   | commutivity                          |
+| p \land (q \land r) \equiv (p \land q) \land (p \land r) | distributivity                       |
+| p \lor (q \lor r) \equiv (p \lor q) \lor (p \lor r) | distributivity                       |
+| \not{}(p \land q) \equiv \not{}p \lor \not{}q              | De Morgan's Law                      |
+| \not{}(p \lor q) \equiv \not{}p \land \not{}q              | De Morgan's Law                      |
+| if p \rightarrow q, then [p \land q \equiv p]      | absorption rule                      |
+| if p \rightarrow p, then [p \lor q \equiv p]      | absorption rule                      |
+\
